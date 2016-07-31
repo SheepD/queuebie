@@ -9,9 +9,12 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 
 gem 'jquery-rails'
-gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
+gem 'slim-rails'
+
+gem 'sprockets'
+gem 'sprockets-es6'
 
 # gem 'capistrano-rails', group: :development
 

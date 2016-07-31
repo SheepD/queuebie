@@ -1,0 +1,25 @@
+{
+  "name": "queuebie",
+  "homepage": "https://github.com/SheepD/queuebie",
+  "authors": [
+    "sheepd <maru_devera@outlook.com>"
+  ],
+  "description": "an asset tracking application built with ruby on rails",
+  "main": "",
+  "keywords": [
+    "asset-tracking",
+    "queue",
+    "queuebie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}
